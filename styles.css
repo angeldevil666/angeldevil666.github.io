@@ -1,0 +1,101 @@
+body {
+	background-color: #948989;
+    font-family: sans-serif;
+}
+
+header {
+	background-color: #231e1e;
+	color: #6e5454;
+	padding: 20px;
+	text-align: center;
+}
+
+.logo {
+	font-size: 24px;
+	font-weight: bold;
+    list-style-type: none;
+}
+
+nav ul {
+	list-style: none;
+    font-size: 20px;
+	margin: 0;
+    margin-bottom: 10px;
+	padding: 10px;
+    text-align: center;
+    font-weight: 200;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.banner {
+	background-color: #655757;
+	padding: 20px;
+}
+
+.slider {
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+}
+
+.slider img {
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.destinations {
+	background-color: #655757;
+	padding: 30px;
+    color: #231e1e;
+    text-align: center;
+}
+
+.destination {
+	margin-bottom: 20px;
+    color: #231e1e;
+    text-align: justify;
+    margin: 30px;
+}
+
+.destination img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.price {
+	font-size: 24px;
+	font-weight: bold;
+	color: #231e1e;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+.contact {
+	margin-bottom: 20px;
+}
+
+.social-media {
+	margin-bottom: 20px;
+}
+
+.social-media a {
+	margin-right: 10px;
+}
